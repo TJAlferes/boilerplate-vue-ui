@@ -1,7 +1,7 @@
 {
-  "name": "ui",
+  "name": "boilerplate-vue-ui",
   "version": "1.0.0",
-  "description": "My preferred setup for Vue and Laravel",
+  "description": "Boilerplate for Vue and Laravel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,13 +18,14 @@
   },
   "homepage": "https://github.com/TJAlferes/vue-laravel-example-ui#readme",
   "dependencies": {
-    "vue": "^3.0.0-alpha.7",
-    "vue-router": "^3.1.5",
-    "vuex": "^3.1.2"
+    "vue": "^3.0.0-alpha.11",
+    "vue-router": "^4.0.0-alpha.4",
+    "vuex": "^4.0.0-alpha.1"
   },
   "devDependencies": {
-    "@vue/test-utils": "^1.0.0-beta.31",
-    "vue-loader": "^15.9.0",
+    "@vue/test-utils": "^1.0.0-beta.32",
+    "typescript": "^3.8.3",
+    "vue-loader": "^15.9.1",
     "vue-template-compiler": "^2.6.11"
   }
 }
