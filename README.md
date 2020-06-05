@@ -1,2 +1,2 @@
-# vue-laravel-example-ui
-My preferred setup for Vue and Laravel
+# boilerplate-vue-ui
+Example setup for Vue and Laravel

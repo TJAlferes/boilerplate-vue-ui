@@ -1,22 +1,22 @@
 {
   "name": "boilerplate-vue-ui",
   "version": "1.0.0",
-  "description": "Boilerplate for Vue and Laravel",
+  "description": "Example setup for Vue",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TJAlferes/vue-laravel-example-ui.git"
+    "url": "git+https://github.com/TJAlferes/boilerplate-vue-ui.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TJAlferes/vue-laravel-example-ui/issues"
+    "url": "https://github.com/TJAlferes/boilerplate-vue-ui/issues"
   },
-  "homepage": "https://github.com/TJAlferes/vue-laravel-example-ui#readme",
+  "homepage": "https://github.com/TJAlferes/boilerplate-vue-ui#readme",
   "dependencies": {
     "vue": "^3.0.0-beta.14",
     "vue-router": "^4.0.0-alpha.12",
