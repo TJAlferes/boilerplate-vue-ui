@@ -18,14 +18,14 @@
   },
   "homepage": "https://github.com/TJAlferes/vue-laravel-example-ui#readme",
   "dependencies": {
-    "vue": "^3.0.0-alpha.11",
-    "vue-router": "^4.0.0-alpha.4",
-    "vuex": "^4.0.0-alpha.1"
+    "vue": "^3.0.0-beta.14",
+    "vue-router": "^4.0.0-alpha.12",
+    "vuex": "^4.0.0-beta.2"
   },
   "devDependencies": {
-    "@vue/test-utils": "^1.0.0-beta.32",
-    "typescript": "^3.8.3",
-    "vue-loader": "^15.9.1",
+    "@vue/test-utils": "^1.0.3",
+    "typescript": "^3.9.5",
+    "vue-loader": "^15.9.2",
     "vue-template-compiler": "^2.6.11"
   }
 }
